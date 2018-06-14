@@ -11,6 +11,9 @@ Day1
 正则表达式的练习
 抓取B站的视频,将抓取的数据导入到sql中
 '''
+'''
+加入多线程分布式爬取
+'''
 
 def get_html(page,search_list):
     '''
